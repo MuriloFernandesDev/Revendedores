@@ -22,22 +22,16 @@ export function Doubts() {
                     <input id="Check1" type="checkbox" />
                     <label htmlFor="Check1"></label>
                     <div className="collapse-title text-xl font-medium text-white bg-dark_doubts w-full">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Porque são tão baratos?
                     </div>
 
                     <div className="collapse-content text-white mt-1">
                         <div className="w-full h-[1px] bg-dark_doubts"></div>
-                        <p className="p-4">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit.
-                        </p>
                         <div className="w-full h-[1px] bg-dark_doubts"></div>
                         <p className="p-4">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Nunc vulputate libero et velit interdum, ac
-                            aliquet odio mattis. Class aptent taciti sociosqu ad
-                            litora torquent per conubia nostra, per inceptos
-                            himenaeos.
+                            Nós compramos através de pontos de cartão de crédito
+                            e milhas de nossos associados em promoções nas
+                            principais lojas do Brasil!
                         </p>
                     </div>
                 </div>
@@ -45,51 +39,40 @@ export function Doubts() {
                     <input id="Check2" type="checkbox" />
                     <label htmlFor="Check2"></label>
                     <div className="collapse-title text-xl font-medium text-white bg-dark_doubts w-full">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Os produtos possuem nota fiscal?
                     </div>
 
                     <div className="collapse-content text-white mt-1">
                         <div className="w-full h-[1px] bg-dark_doubts"></div>
-                        <p className="p-4">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit.
-                        </p>
+
                         <div className="w-full h-[1px] bg-dark_doubts"></div>
                         <p className="p-4">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Nunc vulputate libero et velit interdum, ac
-                            aliquet odio mattis. Class aptent taciti sociosqu ad
-                            litora torquent per conubia nostra, per inceptos
-                            himenaeos.
+                            Sim, porém como os produtos são comprados através do
+                            benefício de pontos de nossos associados, a NF do
+                            produto é enviada para nossa equipe para validação
+                            da procedência do produto. Porém não enviamos ela ao
+                            comprador, a fim de preservar os dados pessoais dos
+                            associados.
                         </p>
                     </div>
                 </div>
-                {/* <div className="relative xl:ml-[85%] lg:ml-[78%] hidden md:block md:ml-[65%]">
-        <div className="w-32 mt-4 flex h-auto absolute justify-end md:block">
-            <div className="w-28 h-28 -rotate-[40deg] border-[4px] border-button rounded-3xl absolute ml-[30%] mt-2"></div>
-            <div className="w-28 h-28 -rotate-[40deg] border-[4px] border-button rounded-3xl"></div>
-        </div>
-    </div> */}
                 <div className="collapse collapse-arrow w-full">
                     <input id="Check3" type="checkbox" />
                     <label htmlFor="Check3"></label>
                     <div className="collapse-title text-xl font-medium text-white bg-dark_doubts w-full">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Aparelhos tem garantia?
                     </div>
 
                     <div className="collapse-content text-white mt-1">
                         <div className="w-full h-[1px] bg-dark_doubts"></div>
-                        <p className="p-4">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit.
-                        </p>
+
                         <div className="w-full h-[1px] bg-dark_doubts"></div>
                         <p className="p-4">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Nunc vulputate libero et velit interdum, ac
-                            aliquet odio mattis. Class aptent taciti sociosqu ad
-                            litora torquent per conubia nostra, per inceptos
-                            himenaeos.
+                            Com os produtos da Apple você não precisa se
+                            preocupar com nota fiscal, pois assim que você ativa
+                            o iCloud, consegue ter acesso a todos os benefícios
+                            de garantia. Todos os aparelhos possuem garantia
+                            mundial de 1 ano da Apple.
                         </p>
                     </div>
                 </div>
@@ -97,22 +80,16 @@ export function Doubts() {
                     <input id="Check4" type="checkbox" />
                     <label htmlFor="Check4"></label>
                     <div className="collapse-title text-xl font-medium text-white bg-dark_doubts w-full">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Qual a forma de pagamento?
                     </div>
 
                     <div className="collapse-content text-white mt-1">
                         <div className="w-full h-[1px] bg-dark_doubts"></div>
-                        <p className="p-4">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit.
-                        </p>
+
                         <div className="w-full h-[1px] bg-dark_doubts"></div>
                         <p className="p-4">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Nunc vulputate libero et velit interdum, ac
-                            aliquet odio mattis. Class aptent taciti sociosqu ad
-                            litora torquent per conubia nostra, per inceptos
-                            himenaeos.
+                            Pix, cartão de crédito e pagamento personalizado
+                            (Entrada no PIX + parcelas no cartão).
                         </p>
                     </div>
                 </div>
@@ -120,23 +97,69 @@ export function Doubts() {
                     <input id="Check5" type="checkbox" />
                     <label htmlFor="Check5"></label>
                     <div className="collapse-title text-xl font-medium text-white bg-dark_doubts w-full">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Qual prazo de entrega?
                     </div>
 
                     <div className="collapse-content text-white mt-1">
                         <div className="w-full h-[1px] bg-dark_doubts"></div>
-                        <p className="p-4">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit.
-                        </p>
+
                         <div className="w-full h-[1px] bg-dark_doubts"></div>
                         <p className="p-4">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Nunc vulputate libero et velit interdum, ac
-                            aliquet odio mattis. Class aptent taciti sociosqu ad
-                            litora torquent per conubia nostra, per inceptos
-                            himenaeos.
+                            Assim que o pagamento é confirmado o prazo é de 7 a
+                            15 dias úteis.
                         </p>
+                    </div>
+                </div>
+                <div className="collapse collapse-arrow w-full">
+                    <input id="Check5" type="checkbox" />
+                    <label htmlFor="Check5"></label>
+                    <div className="collapse-title text-xl font-medium text-white bg-dark_doubts w-full">
+                        Só trabalham com aparelhos novos?
+                    </div>
+
+                    <div className="collapse-content text-white mt-1">
+                        <div className="w-full h-[1px] bg-dark_doubts"></div>
+
+                        <div className="w-full h-[1px] bg-dark_doubts"></div>
+                        <p className="p-4">
+                            Os produtos são novos (lacrados) não são de vitrine!
+                            Comprados nas principais lojas do Brasil.
+                        </p>
+                    </div>
+                </div>
+                <div className="collapse collapse-arrow w-full">
+                    <input id="Check5" type="checkbox" />
+                    <label htmlFor="Check5"></label>
+                    <div className="collapse-title text-xl font-medium text-white bg-dark_doubts w-full">
+                        Qual endereço físico?
+                    </div>
+
+                    <div className="collapse-content text-white mt-1">
+                        <div className="w-full h-[1px] bg-dark_doubts"></div>
+
+                        <div className="w-full h-[1px] bg-dark_doubts"></div>
+                        <p className="p-4">
+                            A BuyPhone é uma Startup, não somos uma loja física
+                            e trabalhamos de forma digital em todo o Brasil. O
+                            endereço de nossa operação, onde nossa equipe
+                            trabalha, fica localizado em R: Av Brasilia 2121
+                            Sala 1116, Jardim Nova Yorque, Araçatuba-SP, CEP:
+                            16018-000.
+                        </p>
+                    </div>
+                </div>
+                <div className="collapse collapse-arrow w-full">
+                    <input id="Check5" type="checkbox" />
+                    <label htmlFor="Check5"></label>
+                    <div className="collapse-title text-xl font-medium text-white bg-dark_doubts w-full">
+                        Qual CNPJ da BuyPhone?
+                    </div>
+
+                    <div className="collapse-content text-white mt-1">
+                        <div className="w-full h-[1px] bg-dark_doubts"></div>
+
+                        <div className="w-full h-[1px] bg-dark_doubts"></div>
+                        <p className="p-4">CNPJ: 45.679.637/0001-94.</p>
                     </div>
                 </div>
                 {/* FIM DUVIDAS FREQUENTES */}

@@ -108,7 +108,7 @@ export default function Home() {
                             <ul className="MENU-LINK-MOBILE-OPEN flex flex-col items-center justify-between  min-h-[250px]">
                                 <li className="mr-6">
                                     <a
-                                        className="text-purple-store font-medium text-lg hover:text-blue-500"
+                                        className="text-white font-medium text-lg hover:text-blue-500 md:text-purple-store"
                                         href="#Experience"
                                     >
                                         Experiência
@@ -116,7 +116,7 @@ export default function Home() {
                                 </li>
                                 <li className="mr-6">
                                     <a
-                                        className="text-purple-store font-medium text-lg hover:text-blue-500"
+                                        className="text-white font-medium text-lg hover:text-blue-500 md:text-purple-store"
                                         href="#OurSite"
                                     >
                                         Nosso site
@@ -124,7 +124,7 @@ export default function Home() {
                                 </li>
                                 <li className="mr-6">
                                     <a
-                                        className="text-purple-store font-medium text-lg hover:text-blue-500"
+                                        className="text-white font-medium text-lg hover:text-blue-500 md:text-purple-store"
                                         href="#WeAre"
                                     >
                                         Nós somos
@@ -142,7 +142,7 @@ export default function Home() {
                         </div>
                     </section>
                     <ul className="DESKTOP-MENU hidden space-x-8 lg:flex items-center">
-                        <li className="">
+                        <li>
                             <a
                                 className="text-purple-store font-medium text-lg hover:text-blue-500"
                                 href="#Experience"

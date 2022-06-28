@@ -35,9 +35,9 @@ export function Content() {
                         </div>
                         <div className="bg-white w-full h-[1px] opacity-10"></div>
                         <span className="text-white">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Nunc vulputate libero et velit interdum, ac
-                            aliquet odio mattis.{' '}
+                            Com a BuyPhone você evita as dores de cabeça com
+                            produtos sem procedência, encomenda iPhones 100%
+                            nacionais e lacrados e aumenta seus lucros!
                         </span>
                     </div>
                 </div>
@@ -47,20 +47,17 @@ export function Content() {
                     <div className="flex flex-col pr-[30px] h-[200px] justify-between">
                         <div className="flex items-center md:items-start md:flex-col">
                             <div className="h-10 w-10 flex justify-center items-center bg-button rounded-xl">
-                                <img
-                                    src="/Attachmoney.png"
-                                    alt="Sifrão em png"
-                                />
+                                <img src="/Leaderboard.png" alt="Graphic" />
                             </div>
                             <h1 className="text-button text-2xl ml-2 font-medium mt-0 md:mt-4 md:ml-0">
-                                Obtenha maiores lucros
+                                Painel de controle do negócio
                             </h1>
                         </div>
                         <div className="bg-white w-full h-[1px] opacity-10"></div>
                         <span className="text-white">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Nunc vulputate libero et velit interdum, ac
-                            aliquet odio mattis.{' '}
+                            Gerencie todas as suas vendas e seus clientes,
+                            através do painel de controle que oferecemos a você
+                            de forma gratuita!
                         </span>
                     </div>
                 </div>
@@ -71,19 +68,20 @@ export function Content() {
                         <div className="flex items-center md:items-start md:flex-col">
                             <div className="h-10 w-10 flex justify-center items-center bg-button rounded-xl">
                                 <img
-                                    src="/Attachmoney.png"
-                                    alt="Sifrão em png"
+                                    className="-ml-1"
+                                    src="/PanTool.png"
+                                    alt="Stop"
                                 />
                             </div>
                             <h1 className="text-button text-2xl ml-2 font-medium mt-0 md:mt-4 md:ml-0">
-                                Obtenha maiores lucros
+                                Tenha acesso exclusivo
                             </h1>
                         </div>
                         <div className="bg-white w-full h-[1px] opacity-10"></div>
                         <span className="text-white">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Nunc vulputate libero et velit interdum, ac
-                            aliquet odio mattis.{' '}
+                            Seja um parceiro revendedor e tenha acesso a um
+                            canal de pedidos exclusivos para comprar iPhones
+                            ainda mais baratos!
                         </span>
                     </div>
                 </div>
