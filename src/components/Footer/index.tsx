@@ -4,7 +4,7 @@ import LogoImg from '../../../public/Logo.png'
 export function Footer() {
     return (
         <div id="WeAre" className="w-full bg-white">
-            <div className="w-full mx-auto items-center pt-5 pb-10 flex flex-col text-center text-purple-store md:min-h-screen md:pt-10 md:flex-row md:text-left md:w-5/6">
+            <div className="w-full mx-auto items-center pt-5 pb-10 flex flex-col text-center text-purple-store md:min-h-[40vw] md:pt-10 md:flex-row md:text-left md:w-5/6">
                 <div className="w-1/2 relative pb-5">
                     <div className="absolute -mt-16 ml-14 hidden md:block">
                         <div className="w-10 h-10 -rotate-[40deg] border-[2px] border-button rounded-lg absolute ml-14"></div>
@@ -33,19 +33,10 @@ export function Footer() {
                     </div>
                     <div className="w-full h-[1px] bg-button"></div>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Nunc vulputate libero et velit interdum, ac aliquet odio
-                        mattis.{' '}
-                    </p>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Nunc vulputate libero et velit interdum, ac aliquet odio
-                        mattis. Lorem ipsum dolor sit amet, consectetur
-                        adipiscing elit. Nunc vulputate libero et velit
-                        interdum, ac aliquet odio mattis.{' '}
-                    </p>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Nós conectamos com um match, quem deseja comprar
+                        produtos da marca Apple com quem deseja vender. O
+                        comprador economiza até 30% e o associado ganha dinheiro
+                        com seus pontos!
                     </p>
                 </div>
             </div>
