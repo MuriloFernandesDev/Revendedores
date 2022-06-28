@@ -12,12 +12,17 @@ export function Main() {
             >
                 <div className="w-5/6 flex flex-col mx-auto items-center md:flex-row">
                     <div className="w-full flex flex-col items-center gap-4 text-center md:w-[41%] md:block md:text-start md:gap-0">
-                        <h1 className="text-purple-store opacity-10 text-[7vw] font-bold md:absolute md:leading-3">
+                        <h1 className="text-purple-store opacity-10 text-6xl md:text-[7vw] font-bold md:absolute md:leading-3">
                             UMA NOVA
                         </h1>
-                        <h2 className="uppercase text-2xl ml-4 font-bold md:mt-2">
+                        <h2 className="uppercase text-2xl ml-4 font-bold pb-2 md:mt-2">
                             FORMA de revender iPhones com segurança e aumentar
-                            seus lucros
+                            seus{' '}
+                            <span className="relative block w-24 mx-auto md:mx-0">
+                                {' '}
+                                <div className="bg-red-600 rounded-xl w-[80%] ml-[10%] p-[1.5px] absolute bottom-0"></div>
+                                Lucros
+                            </span>
                         </h2>
                         <div className="w-full h-[1px] bg-black opacity-20"></div>
                         <p className="ml-4">

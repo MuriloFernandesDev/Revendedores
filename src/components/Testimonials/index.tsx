@@ -13,7 +13,7 @@ export function Testimonials() {
         <div className={styles.pallets_color}>
             <div className="flex flex-col mx-auto md:w-5/6 gap-28">
                 <div className="flex justify-between items-center flex-col gap-4 md:flex-row md:items-start">
-                    <div className="flex flex-col w-full">
+                    <div className="flex flex-col w-full justify-center md:justify-start">
                         <div className="flex">
                             <div className={styles.effect_border}>
                                 <div className="w-[130px] h-auto">
@@ -26,7 +26,7 @@ export function Testimonials() {
                                     />
                                 </div>
                             </div>
-                            <div className="flex flex-col ml-3">
+                            <div className="flex flex-col ml-3 justify-center md:justify-start">
                                 <h1 className="text-purple-store text-xl font-normal">
                                     Lyvia Nagib Fulanetti
                                 </h1>
@@ -88,7 +88,7 @@ export function Testimonials() {
                                     />
                                 </div>
                             </div>
-                            <div className="flex flex-col ml-3">
+                            <div className="flex flex-col ml-3 justify-center md:justify-start">
                                 <h1 className="text-white text-xl font-normal">
                                     Gabriel Martins
                                 </h1>
@@ -150,7 +150,7 @@ export function Testimonials() {
                                     />
                                 </div>
                             </div>
-                            <div className="flex flex-col ml-3">
+                            <div className="flex flex-col ml-3 justify-center md:justify-start">
                                 <h1 className="text-white text-xl font-normal">
                                     Luiz Henrique Puertas
                                 </h1>
@@ -211,7 +211,7 @@ export function Testimonials() {
                                     />
                                 </div>
                             </div>
-                            <div className="flex flex-col ml-3">
+                            <div className="flex flex-col ml-3 justify-center md:justify-start">
                                 <h1 className="text-white text-xl font-normal">
                                     Igor Fortin
                                 </h1>
@@ -271,7 +271,7 @@ export function Testimonials() {
                                     />
                                 </div>
                             </div>
-                            <div className="flex flex-col ml-3">
+                            <div className="flex flex-col ml-3 justify-center md:justify-start">
                                 <h1 className="text-white text-xl font-normal">
                                     Amanda L. Prado
                                 </h1>
