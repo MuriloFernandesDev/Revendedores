@@ -111,8 +111,8 @@ export function Doubts() {
                     </div>
                 </div>
                 <div className="collapse collapse-arrow w-full">
-                    <input id="Check5" type="checkbox" />
-                    <label htmlFor="Check5"></label>
+                    <input id="Check6" type="checkbox" />
+                    <label htmlFor="Check6"></label>
                     <div className="collapse-title text-xl font-medium text-white bg-dark_doubts w-full">
                         Só trabalham com aparelhos novos?
                     </div>
@@ -128,8 +128,8 @@ export function Doubts() {
                     </div>
                 </div>
                 <div className="collapse collapse-arrow w-full">
-                    <input id="Check5" type="checkbox" />
-                    <label htmlFor="Check5"></label>
+                    <input id="Check7" type="checkbox" />
+                    <label htmlFor="Check7"></label>
                     <div className="collapse-title text-xl font-medium text-white bg-dark_doubts w-full">
                         Qual endereço físico?
                     </div>
@@ -149,8 +149,8 @@ export function Doubts() {
                     </div>
                 </div>
                 <div className="collapse collapse-arrow w-full">
-                    <input id="Check5" type="checkbox" />
-                    <label htmlFor="Check5"></label>
+                    <input id="Check8" type="checkbox" />
+                    <label htmlFor="Check8"></label>
                     <div className="collapse-title text-xl font-medium text-white bg-dark_doubts w-full">
                         Qual CNPJ da BuyPhone?
                     </div>
